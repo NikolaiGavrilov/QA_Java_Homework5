@@ -57,7 +57,6 @@ class PhoneBook {
         return phoneBook;
     }
 }
-// Не удаляйте этот класс - он нужен для
 
 public class Task1 {
     public static void main(String[] args) {
